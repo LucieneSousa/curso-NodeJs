@@ -1,0 +1,32 @@
+Node
+
+O que é?
+ - É um JS Runtime Enviroment, ou seja, um ambiente de execução do JS;
+ - Não é um framework e nem uma lingaugem de programação;
+
+Para que serve?
+ - produzir aplicações em backend;
+ - produzir aplicações em frontend;
+ - microserviços;
+ - produzir scripts e automações;
+ - produzir API(web, mobile, destokp);
+
+Vantagens:
+ - Rápido (executar, prototipar aplicações);
+ - Alta escalabilidade (aumenta o volume de atividades sem aumentar o custo da produção);
+ - Aplicações de ponta (ex. Netflix, Paypal);
+ - Ecossistema gigante(NPM - onde é possível inúmeros pacotes);
+ - JS everywhere(js em todos os lugares);
+
+Como funciona?
+ - Engines(motores, onde o node roda): V8(chrome);
+ - Ambientes: 
+    - browsers
+    - máquinas (Node -> V8)
+ - Garçom(analogia):
+    - Async / Non-blocking: 
+        - Handle Requests (gerenciar pedidos)
+        - Single Thread (Um cara só)
+        - Event Loop
+    - Sync / blocking : wait....   
+
