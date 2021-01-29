@@ -40,3 +40,9 @@ Module System:
    - fs
    - path
    - http
+
+================================================================
+
+Instalar nodemon:
+ - npm init -y
+ - npm i nodemon -D
