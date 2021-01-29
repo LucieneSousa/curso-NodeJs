@@ -30,3 +30,13 @@ Como funciona?
         - Event Loop
     - Sync / blocking : wait....   
 
+===============================================================
+
+Module System:
+   - Common JS (require/exports)
+   - os
+   - setInteval(global)
+   - events
+   - fs
+   - path
+   - http
