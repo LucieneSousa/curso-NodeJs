@@ -1,0 +1,24 @@
+{
+  "name": "curso-NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon http/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucieneSousa/curso-NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucieneSousa/curso-NodeJs/issues"
+  },
+  "homepage": "https://github.com/LucieneSousa/curso-NodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
